@@ -1,6 +1,5 @@
 import {Injectable} from '@angular/core';
 // import Web3 from 'web3';
-
 const Web3 = require('web3');
 import {default as contract} from 'truffle-contract';
 import {Subject} from 'rxjs/Rx';
